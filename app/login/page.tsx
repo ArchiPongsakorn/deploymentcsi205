@@ -82,7 +82,6 @@ localStorage.removeItem('returnPath')
                       <EyeDisabled />
                      </InputGroupAddon>
                      <InputGroupInput id="pass" type="password" placeholder="pass" />
-                     <InputGroupAddon align='inline-end'></InputGroupAddon>
                    </InputGroup>
 
                 </DialogBody>          
