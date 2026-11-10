@@ -124,7 +124,7 @@ interface CalculatorProps {
   studentId?: string
 }
 
-export default function Calculator({ studentId = '68060537' }: CalculatorProps) {
+export default function Calculator({ studentId = '68081509' }: CalculatorProps) {
   const router = useRouter()
   useEffect(() => { checkLogin(router, '/calculator') }, [router])
 

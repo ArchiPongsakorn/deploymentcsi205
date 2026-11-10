@@ -17,16 +17,15 @@ export default function Home() {
           <img
   src="/animation/face.png"
   alt="Instructor"
-  className="w-full h-[250px] object-cover"
+  className="w-full h-[300px] object-cover object-[center_35%]"
 />
 
           <div className="p-2 text-sm">
-            <b>ชื่อ ปัญญวัฒน์ ศิริรัชทรัพย์</b>
+            <b>ชื่อ พงศกร คายะโส</b>
             <p>Computer Science and Software Development</p>
-            <p>School of Information Technology (SIT)</p>
             <p>Sripatum University (SPU)</p>
           </div>
-        </div>
+        </div>  
 
         {/* ข้อความ */}
         <div className="flex-1 text-sm p-1">
